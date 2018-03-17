@@ -1,6 +1,6 @@
 # Ansible
 
-Ansible coker container
+Ansible docker container
 
 ##  Usage
 
