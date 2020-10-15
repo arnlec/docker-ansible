@@ -1,6 +1,6 @@
 FROM ubuntu
 
-ENV BUILD_DATE 2019-10-28
+ENV BUILD_DATE 2020-10-15
 
 RUN apt-get update -y
 RUN apt-get install -y software-properties-common
